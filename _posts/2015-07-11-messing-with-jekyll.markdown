@@ -2,7 +2,7 @@
 layout: post
 title:  "Messing with Jekyll"
 date:   2015-07-11 16:11:16
-categories: jekyll update
+<!-- categories:  -->
 ---
 
 Waow, finally I got myself some free time. I've been thinking of trying Jekyll and GitHub Pages since a few months ago, but I still had my thesis at that time (screw you!).
